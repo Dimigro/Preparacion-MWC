@@ -1,0 +1,8 @@
+En este link le he hecho todas las preguntas a ChatGPT y he hecho todas las pruebas
+https://chat.openai.com/share/93520314-89fd-4229-8f3e-7b8f96c88e17 
+
+Que he aprendido?:
+- Como instalar una libreria de python con pip (Desde el CMD de Windows)
+- Flask es un FrameWork web que sirve para ejecutar pequeñas aplicaciónes Web en la IP 127.0.0.1:5000
+- @app.route es la manera que tiene Flask para redirigir las busquedas a un fichero
+- Para ejecutar en Python un documento .py lo que hay que hacer es poner py o python en el terminal seguido del nombre del fichero o la ruta
